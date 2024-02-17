@@ -6,17 +6,16 @@ pip-chill
 wincertstore
 dvc
 mlflow
-
-ipykernal
+ipykernel 
 pandas
 numpy
-seabornpip
+seaborn
 
 
-pytest==7.1.3
-tox==3.25.1
-flake8==5.0.4
-mypy==0.971
-black==22.8.0
-cls
+pytest
+tox
+flake8
+mypy
+black
+
 #-e .
